@@ -23,3 +23,6 @@ i can link directly to my [about page](about.html)
 
 <img src="images/trees.jpg" style="width:75%">
 
+### Using "BUILD"
+
+when making global changes that affect all pages, use "build" tab to rebuild website from scratch 
