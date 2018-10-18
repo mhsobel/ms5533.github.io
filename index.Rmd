@@ -26,3 +26,9 @@ i can link directly to my [about page](about.html)
 ### Using "BUILD"
 
 when making global changes that affect all pages, use "build" tab to rebuild website from scratch 
+
+### Add code
+
+i can [add code](code.html)
+
+
