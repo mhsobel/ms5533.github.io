@@ -4,4 +4,22 @@ title: "Holy cow!"
 
 ### I have a webpage!
 
-And I can put all kinds of stuff on it!
+and I can put all kinds of stuff on it!
+
+addtional text...
+
+*COULD* add code, but not going to...
+
+
+### Add some links
+
+i like [google](https://www.google.com)
+
+i can link directly to my [about page](about.html)
+
+### Add images
+
+*NOTE* helpful to add images to an "images" folder 
+
+<img src="images/trees.jpg" style="width:75%">
+
